@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: chocolate;
+  font-family:papyrus;
+  font-size: 80px;
+}
+p{
+  font-size: 24px;
+}
+.button{
+  background-color: chocolate;
+    text-align: center;
+    font-size: 24px;
+    font-style: oblique;
+    padding: 15px 32px;
+    border-radius: 4px;
+}
+.button:hover{
+  background: Darkred;
+  color: white;
+}
+img{
+  opacity: 0;
+  text-align: center;
+}
+img:hover{
+  opacity: 1;
+}
+.scary-image-1{
+  max-width: 50%;
+  height: auto;
+}
+table{
+  color: DarkOrange;
+  border-color: Darkred;
+  border-style: dashed;
+  margin-left: auto;
+  margin-right: auto;
+}
+iframe{
+  border: none;
+border-style:solid;
+border-radius: 1;
+color: Darkred;
+}
+d1{
+  color: Darkred;
+}
